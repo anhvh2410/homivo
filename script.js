@@ -1,5 +1,5 @@
 // THAY: email nhận yêu cầu tư vấn từ form liên hệ
-const EMAIL_NHAN = "lienhe@homivo.vn";
+const EMAIL_NHAN = "zenflorix@gmail.com";
 
 document.documentElement.classList.add("js");
 document.getElementById("year").textContent = new Date().getFullYear();
